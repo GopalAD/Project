@@ -1,0 +1,31 @@
+---
+title: "Gradu"
+author: "Gopal Adhikari"
+date: "14 11 2021"
+output: 
+  html_document: 
+    toc: yes
+    fig_caption: yes
+    number_sections: yes
+---
+
+# Introduction
+
+## Lettosuo
+
+## GPP, NEE and Respiration
+
+# Data imorting and sorting
+
+## GPP calculation from modelled respiration
+
+## GPP in Controlled and partial harvest plots
+
+## Some durnal, seasonal and yearly varaitions
+
+# Discussion
+
+# conclusion
+
+# Reference
+
