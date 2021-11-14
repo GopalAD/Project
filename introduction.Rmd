@@ -15,7 +15,7 @@ output:
 
 ## GPP, NEE and Respiration
 
-# Data imorting and sorting
+# Data imorting and sorting(GPP, Precipitation, LAI)
 
 ## GPP calculation from modelled respiration
 
