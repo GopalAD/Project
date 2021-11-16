@@ -1,13 +1,26 @@
-Version: 1.0
+---
+title: "Gradu"
+author: "Gopal Adhikari"
+date: "16 11 2021"
+output: html_document
+---
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+# Introduction
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
+## Lettosuo
 
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+## GPP, NEE and Respiration
+
+# Data imorting and sorting(GPP, Precipitation, LAI)
+
+## GPP calculation from modelled respiration
+
+## GPP in Controlled and partial harvest plots
+
+## Some durnal, seasonal and yearly varaitions
+
+# Discussion
+
+# conclusion
+
+# Reference
